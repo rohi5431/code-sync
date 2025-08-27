@@ -86,9 +86,6 @@ You can view the live preview of the project [here]
 
 - **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
 
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 🌟 Support Us
 
